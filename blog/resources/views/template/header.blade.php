@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>Newspark - News Magazine Template</title>
+    <title>İck Gazetesi</title>
 
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="{{ asset('assets/images/fabicon.png') }}" type="image/png">
